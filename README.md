@@ -1,3 +1,7 @@
+## Author
+
+Emanuel Montero
+
 ## Welcome to Emanuel CV
 
 You can use the [editor on GitHub](https://github.com/emonteroe/emonteroe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
